@@ -1,0 +1,13 @@
+
+.DS_Store
+
+.build/
+
+layout.md
+variables.env
+dist
+package-lock.json
+node_modules
+.idea
+.vscode
+*.log
